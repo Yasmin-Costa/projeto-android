@@ -64,7 +64,7 @@ header > p {
     color:white;
     font-size: 1.2em; /*tamanho da letra*/
     font-family: var(--fonte-destaque);
-    max-width: 600px; /*começa a diminuir quando a tela chega a 600px*/
+    max-width: 600px; /*começa a diminuir o conteudo quando a tela chega a 600px*/
     padding-right: 10px; /*espaço a direita*/
     padding-left: 10px; /*espaço a esquerda para não ficar grudado na margem*/
     margin: auto;
